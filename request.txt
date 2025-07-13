@@ -1,0 +1,21 @@
+POST /api/v3/user/signup/phone HTTP/1.1
+Host: api-pluang.pluang.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+X-Platform: desktop-web
+X-Language-Code: id
+X-Device-Id: web-31a6342a-7e0e-4d79-90ce-ef897c7a9$
+Content-Length: 206
+Origin: https://trade.pluang.com
+Referer: https://trade.pluang.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Priority: u=0
+Te: trailers
+Connection: keep-alive
+
+{"name":"Attacker One","email":"attackerone000@gmail.com","phone":"+6281234560$","signature":"$","referral":"","messageMedium":"MASKING_SMS"}
